@@ -1,4 +1,4 @@
-var products, VerandaColor, VerandaMateriaalDak, verandaOptions2, verandaOptions1, glazenSchuifwand, verandaOptions3, Gegevens;
+var products, VerandaColor, VerandaMateriaalDak, verandaOptions2, verandaOptions1, glazenSchuifwand, carports, zonweringen, verandaOptions3;
 
 // Describe this function...
 function Multi_Step_Check_VerandaColor_and_VerandaMateriaalDak() {
@@ -107,7 +107,7 @@ var we_tabs_next_button = '[bloc=next-tab]';
         $(".w--tab-active").attr('next-tab',nextTab);
         $($('[data-w-tab=verandaOptions1]')).attr('prev-tab',we_activeTab);
 
-        } else {
+        } else if (products == 2) {
 
         nextTab = 'glazenSchuifwand';
         we_activeTab = $(".w--tab-active").attr("data-w-tab");
@@ -125,6 +125,44 @@ var we_tabs_next_button = '[bloc=next-tab]';
         $(we_tabs_next_button).addClass(we_tabs_active_class);
         $(".w--tab-active").attr('next-tab',nextTab);
         $($('[data-w-tab=glazenSchuifwand]')).attr('prev-tab',we_activeTab);
+
+        } else if (products == 3) {
+
+        nextTab = 'carports';
+        we_activeTab = $(".w--tab-active").attr("data-w-tab");
+        we_indexOfActiveTab = tabList.indexOf(we_activeTab);
+        we_indexOfNextTab = we_indexOfActiveTab + 1;
+        we_indexOfPrevTab = we_indexOfActiveTab - 1;
+        we_prevTab = tabList[we_indexOfPrevTab];
+        we_amountOfTabs = tabList.length;
+
+        if (we_indexOfNextTab < we_amountOfTabs) {
+          tabList[we_indexOfNextTab] = nextTab;
+        } else {
+          tabList.push(nextTab);
+        }
+        $(we_tabs_next_button).addClass(we_tabs_active_class);
+        $(".w--tab-active").attr('next-tab',nextTab);
+        $($('[data-w-tab=carports]')).attr('prev-tab',we_activeTab);
+
+        } else if (products == 4) {
+
+        nextTab = 'zonweringen';
+        we_activeTab = $(".w--tab-active").attr("data-w-tab");
+        we_indexOfActiveTab = tabList.indexOf(we_activeTab);
+        we_indexOfNextTab = we_indexOfActiveTab + 1;
+        we_indexOfPrevTab = we_indexOfActiveTab - 1;
+        we_prevTab = tabList[we_indexOfPrevTab];
+        we_amountOfTabs = tabList.length;
+
+        if (we_indexOfNextTab < we_amountOfTabs) {
+          tabList[we_indexOfNextTab] = nextTab;
+        } else {
+          tabList.push(nextTab);
+        }
+        $(we_tabs_next_button).addClass(we_tabs_active_class);
+        $(".w--tab-active").attr('next-tab',nextTab);
+        $($('[data-w-tab=zonweringen]')).attr('prev-tab',we_activeTab);
 
         }
 });
@@ -151,7 +189,7 @@ var we_tabs_next_button = '[bloc=next-tab]';
         $(".w--tab-active").attr('next-tab',nextTab);
         $($('[data-w-tab=verandaOptions1]')).attr('prev-tab',we_activeTab);
 
-        } else {
+        } else if (products == 2) {
 
         nextTab = 'glazenSchuifwand';
         we_activeTab = $(".w--tab-active").attr("data-w-tab");
@@ -169,6 +207,44 @@ var we_tabs_next_button = '[bloc=next-tab]';
         $(we_tabs_next_button).addClass(we_tabs_active_class);
         $(".w--tab-active").attr('next-tab',nextTab);
         $($('[data-w-tab=glazenSchuifwand]')).attr('prev-tab',we_activeTab);
+
+        } else if (products == 3) {
+
+        nextTab = 'carports';
+        we_activeTab = $(".w--tab-active").attr("data-w-tab");
+        we_indexOfActiveTab = tabList.indexOf(we_activeTab);
+        we_indexOfNextTab = we_indexOfActiveTab + 1;
+        we_indexOfPrevTab = we_indexOfActiveTab - 1;
+        we_prevTab = tabList[we_indexOfPrevTab];
+        we_amountOfTabs = tabList.length;
+
+        if (we_indexOfNextTab < we_amountOfTabs) {
+          tabList[we_indexOfNextTab] = nextTab;
+        } else {
+          tabList.push(nextTab);
+        }
+        $(we_tabs_next_button).addClass(we_tabs_active_class);
+        $(".w--tab-active").attr('next-tab',nextTab);
+        $($('[data-w-tab=carports]')).attr('prev-tab',we_activeTab);
+
+        } else if (products == 4) {
+
+        nextTab = 'zonweringen';
+        we_activeTab = $(".w--tab-active").attr("data-w-tab");
+        we_indexOfActiveTab = tabList.indexOf(we_activeTab);
+        we_indexOfNextTab = we_indexOfActiveTab + 1;
+        we_indexOfPrevTab = we_indexOfActiveTab - 1;
+        we_prevTab = tabList[we_indexOfPrevTab];
+        we_amountOfTabs = tabList.length;
+
+        if (we_indexOfNextTab < we_amountOfTabs) {
+          tabList[we_indexOfNextTab] = nextTab;
+        } else {
+          tabList.push(nextTab);
+        }
+        $(we_tabs_next_button).addClass(we_tabs_active_class);
+        $(".w--tab-active").attr('next-tab',nextTab);
+        $($('[data-w-tab=zonweringen]')).attr('prev-tab',we_activeTab);
 
         }
 });
@@ -192,10 +268,8 @@ var we_tabs_next_button = '[bloc=next-tab]';
       VerandaMateriaalDak = getValueFromInput("VerandaMateriaalDak");
         Multi_Step_Check_VerandaColor_and_VerandaMateriaalDak();
 });
-    $('[bloc=next-tab]').click(function() {
-      var we_clicks = $(this).data('we_clicks');
-      if (!we_clicks) {
-          if($('.w--tab-active').attr('data-w-tab')=='verandaOptions2') {
+    $('[bloc=next-tab]').on('click',function() {
+  if($('.w--tab-active').attr('data-w-tab')=='verandaOptions2') {
 
         nextTab = 'verandaOptions3';
         we_activeTab = $(".w--tab-active").attr("data-w-tab");
@@ -215,15 +289,9 @@ var we_tabs_next_button = '[bloc=next-tab]';
         $($('[data-w-tab=verandaOptions3]')).attr('prev-tab',we_activeTab);
 
 
-      }
-      } else {
-
-      }
-      $(this).data("we_clicks", !we_clicks);
-    });$('[bloc=next-tab]').click(function() {
-      var we_clicks = $(this).data('we_clicks');
-      if (!we_clicks) {
-          if($('.w--tab-active').attr('data-w-tab')=='verandaOptions3') {
+      }});
+$('[bloc=next-tab]').on('click',function() {
+  if($('.w--tab-active').attr('data-w-tab')=='verandaOptions3') {
 
         nextTab = 'Gegevens';
         we_activeTab = $(".w--tab-active").attr("data-w-tab");
@@ -243,9 +311,4 @@ var we_tabs_next_button = '[bloc=next-tab]';
         $($('[data-w-tab=Gegevens]')).attr('prev-tab',we_activeTab);
 
 
-      }
-      } else {
-
-      }
-      $(this).data("we_clicks", !we_clicks);
-    });
+      }});
