@@ -1,21 +1,21 @@
 // on each radio button click
-$('label.optionimageradio > input[type="radio"]').click(function () {
+$('label.optionimageradio > input[type="radio"][add-value]').click(function () {
   // declare sum variable
   let sum;
   // if this radio button is in the materiaalDak group
-  if($(this).prev().is('[name="materiaalDak"]')){
+  if($(this).is('[name="materiaalDak"]')){
     // the sum is equal to the radio button's value
     // plus the selected voorkant group radio button
     // if no radio button is selected in the voorkant group
     // default to 0
-    sum = Number($(this).prev().attr('add-value')) + (Number($('input[name="voorkant"]:checked').attr('add-value')) || 0);
+    sum = Number($(this).attr('add-value')) + (Number($('input[name="voorkant"]:checked').attr('add-value')) || 0);
   }
   else { // if this radio button is in the voorkant group
     // the sum is equal to the radio button's value
     // plus the selected materiaalDak group radio button
     // if no radio button is selected in the materiaalDak group
     // default to 0
-    sum = Number($(this).prev().attr('add-value')) + (Number($('input[name="materiaalDak"]:checked').attr('add-value')) || 0);
+    sum = Number($(this).attr('add-value')) + (Number($('input[name="materiaalDak"]:checked').attr('add-value')) || 0);
   }
   
   // format sum e.g. 3500 to 3,500
