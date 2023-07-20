@@ -1,4 +1,4 @@
-var products, VerandaColor, VerandaMateriaalDak, verandaOptions2, verandaOptions1, glazenSchuifwand, carports, zonweringen, verandaOptions3;
+var products, VerandaColor, VerandaMateriaalDak, verandaOptions2, verandaOptions1, glazenSchuifwand, carports, zonweringen, verandaOptions3, carportsKleur, materiaalDak, voorkant, zijwandLinks, zijwandRechts, LEDverlichting;
 
 // Describe this function...
 function Multi_Step_Check_VerandaColor_and_VerandaMateriaalDak() {
@@ -309,6 +309,160 @@ $('[bloc=next-tab]').on('click',function() {
         $(we_tabs_next_button).addClass(we_tabs_active_class);
         $(".w--tab-active").attr('next-tab',nextTab);
         $($('[data-w-tab=Gegevens]')).attr('prev-tab',we_activeTab);
+
+
+      }});
+$('[bloc=next-tab]').on('click',function() {
+  if($('.w--tab-active').attr('data-w-tab')=='carports') {
+
+        nextTab = 'carportsKleur';
+        we_activeTab = $(".w--tab-active").attr("data-w-tab");
+        we_indexOfActiveTab = tabList.indexOf(we_activeTab);
+        we_indexOfNextTab = we_indexOfActiveTab + 1;
+        we_indexOfPrevTab = we_indexOfActiveTab - 1;
+        we_prevTab = tabList[we_indexOfPrevTab];
+        we_amountOfTabs = tabList.length;
+
+        if (we_indexOfNextTab < we_amountOfTabs) {
+          tabList[we_indexOfNextTab] = nextTab;
+        } else {
+          tabList.push(nextTab);
+        }
+        $(we_tabs_next_button).addClass(we_tabs_active_class);
+        $(".w--tab-active").attr('next-tab',nextTab);
+        $($('[data-w-tab=carportsKleur]')).attr('prev-tab',we_activeTab);
+
+
+      }});
+$("[name=CarportColor]").on("input", function () {
+  CarportColor = getValueFromInput("CarportColor");
+
+    nextTab = 'materiaalDak';
+    we_activeTab = $(".w--tab-active").attr("data-w-tab");
+    we_indexOfActiveTab = tabList.indexOf(we_activeTab);
+    we_indexOfNextTab = we_indexOfActiveTab + 1;
+    we_indexOfPrevTab = we_indexOfActiveTab - 1;
+    we_prevTab = tabList[we_indexOfPrevTab];
+    we_amountOfTabs = tabList.length;
+
+    if (we_indexOfNextTab < we_amountOfTabs) {
+      tabList[we_indexOfNextTab] = nextTab;
+    } else {
+      tabList.push(nextTab);
+    }
+    $(we_tabs_next_button).addClass(we_tabs_active_class);
+    $(".w--tab-active").attr('next-tab',nextTab);
+    $($('[data-w-tab=materiaalDak]')).attr('prev-tab',we_activeTab);
+
+    });
+
+  $("[name=CarportColor]").parent("label.w-radio").on("click", function () {
+    clickedRadioButtonValue = $("input", this).val();
+    CarportColor = getValueFromInput("CarportColor");
+
+    nextTab = 'materiaalDak';
+    we_activeTab = $(".w--tab-active").attr("data-w-tab");
+    we_indexOfActiveTab = tabList.indexOf(we_activeTab);
+    we_indexOfNextTab = we_indexOfActiveTab + 1;
+    we_indexOfPrevTab = we_indexOfActiveTab - 1;
+    we_prevTab = tabList[we_indexOfPrevTab];
+    we_amountOfTabs = tabList.length;
+
+    if (we_indexOfNextTab < we_amountOfTabs) {
+      tabList[we_indexOfNextTab] = nextTab;
+    } else {
+      tabList.push(nextTab);
+    }
+    $(we_tabs_next_button).addClass(we_tabs_active_class);
+    $(".w--tab-active").attr('next-tab',nextTab);
+    $($('[data-w-tab=materiaalDak]')).attr('prev-tab',we_activeTab);
+
+    });
+$("[name=materiaalDak]").on("input", function () {
+  materiaalDak = getValueFromInput("materiaalDak");
+
+    nextTab = 'voorkant';
+    we_activeTab = $(".w--tab-active").attr("data-w-tab");
+    we_indexOfActiveTab = tabList.indexOf(we_activeTab);
+    we_indexOfNextTab = we_indexOfActiveTab + 1;
+    we_indexOfPrevTab = we_indexOfActiveTab - 1;
+    we_prevTab = tabList[we_indexOfPrevTab];
+    we_amountOfTabs = tabList.length;
+
+    if (we_indexOfNextTab < we_amountOfTabs) {
+      tabList[we_indexOfNextTab] = nextTab;
+    } else {
+      tabList.push(nextTab);
+    }
+    $(we_tabs_next_button).addClass(we_tabs_active_class);
+    $(".w--tab-active").attr('next-tab',nextTab);
+    $($('[data-w-tab=voorkant]')).attr('prev-tab',we_activeTab);
+
+    });
+
+  $("[name=materiaalDak]").parent("label.w-radio").on("click", function () {
+    clickedRadioButtonValue = $("input", this).val();
+    materiaalDak = getValueFromInput("materiaalDak");
+
+    nextTab = 'voorkant';
+    we_activeTab = $(".w--tab-active").attr("data-w-tab");
+    we_indexOfActiveTab = tabList.indexOf(we_activeTab);
+    we_indexOfNextTab = we_indexOfActiveTab + 1;
+    we_indexOfPrevTab = we_indexOfActiveTab - 1;
+    we_prevTab = tabList[we_indexOfPrevTab];
+    we_amountOfTabs = tabList.length;
+
+    if (we_indexOfNextTab < we_amountOfTabs) {
+      tabList[we_indexOfNextTab] = nextTab;
+    } else {
+      tabList.push(nextTab);
+    }
+    $(we_tabs_next_button).addClass(we_tabs_active_class);
+    $(".w--tab-active").attr('next-tab',nextTab);
+    $($('[data-w-tab=voorkant]')).attr('prev-tab',we_activeTab);
+
+    });
+$('[bloc=next-tab]').on('click',function() {
+  if($('.w--tab-active').attr('data-w-tab')=='zijwandLinks') {
+
+        nextTab = 'zijwandRechts';
+        we_activeTab = $(".w--tab-active").attr("data-w-tab");
+        we_indexOfActiveTab = tabList.indexOf(we_activeTab);
+        we_indexOfNextTab = we_indexOfActiveTab + 1;
+        we_indexOfPrevTab = we_indexOfActiveTab - 1;
+        we_prevTab = tabList[we_indexOfPrevTab];
+        we_amountOfTabs = tabList.length;
+
+        if (we_indexOfNextTab < we_amountOfTabs) {
+          tabList[we_indexOfNextTab] = nextTab;
+        } else {
+          tabList.push(nextTab);
+        }
+        $(we_tabs_next_button).addClass(we_tabs_active_class);
+        $(".w--tab-active").attr('next-tab',nextTab);
+        $($('[data-w-tab=zijwandRechts]')).attr('prev-tab',we_activeTab);
+
+
+      }});
+$('[bloc=next-tab]').on('click',function() {
+  if($('.w--tab-active').attr('data-w-tab')=='zijwandRechts') {
+
+        nextTab = 'LEDverlichting';
+        we_activeTab = $(".w--tab-active").attr("data-w-tab");
+        we_indexOfActiveTab = tabList.indexOf(we_activeTab);
+        we_indexOfNextTab = we_indexOfActiveTab + 1;
+        we_indexOfPrevTab = we_indexOfActiveTab - 1;
+        we_prevTab = tabList[we_indexOfPrevTab];
+        we_amountOfTabs = tabList.length;
+
+        if (we_indexOfNextTab < we_amountOfTabs) {
+          tabList[we_indexOfNextTab] = nextTab;
+        } else {
+          tabList.push(nextTab);
+        }
+        $(we_tabs_next_button).addClass(we_tabs_active_class);
+        $(".w--tab-active").attr('next-tab',nextTab);
+        $($('[data-w-tab=LEDverlichting]')).attr('prev-tab',we_activeTab);
 
 
       }});
