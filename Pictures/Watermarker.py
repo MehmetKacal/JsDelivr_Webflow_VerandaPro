@@ -11,7 +11,14 @@ output_dir = "/Users/mehmet/Downloads/Pictures/Watermarked"
 watermark_text = "VerandaProMax.nl"
 font_path = "/System/Library/Fonts/Supplemental/Arial.ttf"
 opacity = 120  # 0 (transparent) to 255 (opaque)
-# padding = 60  # Padding from the image edges
+
+# Dynamic sizing limits
+min_font_size = 20
+max_font_size = 60  # <-- added maximum font size
+
+padding_ratio = 1 / 30  # padding relative to image width
+max_padding = 60        # max padding in pixels
+extra_margin = 5        # extra padding to keep text from edge
 
 # ===== SETUP =====
 if not os.path.exists(output_dir):
@@ -29,22 +36,20 @@ for filename in os.listdir(input_dir):
     txt_layer = Image.new("RGBA", image.size, (255, 255, 255, 0))
     draw = ImageDraw.Draw(txt_layer)
 
-    # Dynamically scale font size: about 1/20 of image width
-    dynamic_font_size = max(20, image.width // 20)
+    # Calculate dynamic font size capped by max_font_size
+    dynamic_font_size = max(min_font_size, min(max_font_size, image.width // 20))
     font = ImageFont.truetype(font_path, dynamic_font_size)
 
     bbox = draw.textbbox((0, 0), watermark_text, font=font)
     text_width = bbox[2] - bbox[0]
     text_height = bbox[3] - bbox[1]
 
-    padding = max(20, image.width // 30)  # adjust divisor to your liking
-
-    extra_margin = 5  # extra padding to ensure text isn’t flush with edge
+    # Calculate dynamic padding capped by max_padding
+    padding = min(max_padding, int(image.width * padding_ratio))
 
     x = image.width - text_width - padding - extra_margin
     y = image.height - text_height - padding - extra_margin
 
-    # Just draw the text (no background box)
     draw.text((x, y), watermark_text, font=font, fill=(255, 255, 255, opacity))
     watermarked = Image.alpha_composite(image, txt_layer)
 
@@ -56,7 +61,6 @@ for filename in os.listdir(input_dir):
     )
     output_path = os.path.join(output_dir, output_filename)
     watermarked.convert("RGB").save(output_path, quality=95)
-    # break  # Remove or comment out this line to process all images
 
-print(f"Using font size {dynamic_font_size} for {filename}")
+print(f"Using font size {dynamic_font_size} and padding {padding} for {filename}")
 print("Watermarking complete.")
