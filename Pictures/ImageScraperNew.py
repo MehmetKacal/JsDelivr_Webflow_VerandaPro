@@ -1,36 +1,126 @@
 import os
 import requests
 
-def download_images(urls, filenames, save_directory):
-    os.makedirs(save_directory, exist_ok=True)  # Ensure the directory exists
+def download_images(urls, filenames, relative_paths, base_directory):
+    for url, filename, relative_path in zip(urls, filenames, relative_paths):
+        save_directory = os.path.join(base_directory, relative_path)
+        os.makedirs(save_directory, exist_ok=True)
 
-    for url, filename in zip(urls, filenames):  # Pair each URL with its corresponding filename
+        file_name = f"{filename}.jpg"
+        file_path = os.path.join(save_directory, file_name)
+
         try:
             response = requests.get(url, stream=True)
-            response.raise_for_status()  # Ensure the request was successful
-            
-            # Ensure all files are saved as .jpg
-            file_name = f"{filename}.jpg"
-            file_path = os.path.join(save_directory, file_name)
+            response.raise_for_status()
 
-            # Save the image
             with open(file_path, 'wb') as file:
                 for chunk in response.iter_content(1024):
                     file.write(chunk)
-            
-            print(f"Downloaded: {file_name}")
 
+            print(f"Downloaded: {file_name} to {save_directory}")
+        
         except requests.exceptions.RequestException as e:
             print(f"Failed to download {url}: {e}")
 
 # Example usage
+base_directory = "/Users/mehmet/Business/Pictures/ProductChoice Images/demo1Full"
+
+# creme 43  zwart 42    antraciet 41
+# 1
+# 2
+# 3
+# 4
+# 5
+# 6
+
 urls = [
-    "https://configurator.fifty8.eu:8002/assets/design/st-garden/4/zwart/42013.jpg"
+    5202300210
+    afmeting(4,5,6,7) kleur(1,2,3) dak linker(2,3,4,5,6) linkerSpie(2,3,4,5) 0 0 voorkant(2,X,4,X) zonwering(1,2) 0
+    "https://configurator.fifty8.eu:8002/assets/design/st-garden/5/zwart/5202300210.jpg"
+    "https://configurator.fifty8.eu:8002/assets/design/st-garden/5/zwart/5202300220.jpg"
+    "https://configurator.fifty8.eu:8002/assets/design/st-garden/5/zwart/5202300310.jpg"
+    "https://configurator.fifty8.eu:8002/assets/design/st-garden/5/zwart/5203300320.jpg"
+
+https://configurator.fifty8.eu:8002/assets/design/st-garden/5/zwart/5206500210.jpg
+
+
+
+
 ]
 
 filenames = [
-    "Glazen-spie"
+    "Ja",
+    "Ja",
+    "Ja",
+    "Ja",
+    "Ja",
+    "Ja",
+    "Ja",
+    "Ja",
+    "Ja",
+    "Ja",
+    "Ja",
+    "Ja"
+
+    # "Aluminium-spie",
+    # "Glazen-spie",
+    # "Polycarbonaat-opaal",
+    # "Polycarbonaat-helder"
+
+    # "Geen-zijwand",
+    # "Aluminium-zijwand",
+    # "Helder-glazen-schuifwanden",
+    # "Getint-glazen-schuifwanden",
+    # "Aluminium-schuifpui",
+    # "Aluminium-kozijn"
 ]
+
+relative_paths = [
+
+    "7-zonwering/4/antraciet",
+    "7-zonwering/5/antraciet",
+    "7-zonwering/6/antraciet",
+    "7-zonwering/7/antraciet",
+
+    "7-zonwering/4/zwart",
+    "7-zonwering/5/zwart",
+    "7-zonwering/6/zwart",
+    "7-zonwering/7/zwart",
+
+    "7-zonwering/4/creme",
+    "7-zonwering/5/creme",
+    "7-zonwering/6/creme",
+    "7-zonwering/7/creme"
+
+
+    # "Geen-zijwand",
+    # "Aluminium-zijwand",
+    # "Helder-glazen-schuifwanden",
+    # "Getint-glazen-schuifwanden",
+    # "Aluminium-schuifpui",
+    # "Aluminium-kozijn",
+
+    # "4-linker-zijkant/5/antraciet",
+    # "4-linker-zijkant/5/antraciet",
+    # "4-linker-zijkant/5/antraciet",
+    # "4-linker-zijkant/5/antraciet",
+    # "4-linker-zijkant/5/antraciet",
+
+    # "4-linker-zijkant/6/antraciet",
+    # "4-linker-zijkant/6/antraciet",
+    # "4-linker-zijkant/6/antraciet",
+    # "4-linker-zijkant/6/antraciet",
+    # "4-linker-zijkant/6/antraciet",
+
+    # "4-linker-zijkant/7/antraciet",
+    # "4-linker-zijkant/7/antraciet",
+    # "4-linker-zijkant/7/antraciet",
+    # "4-linker-zijkant/7/antraciet",
+    # "4-linker-zijkant/7/antraciet"
+]
+
+download_images(urls, filenames, relative_paths, base_directory)
+
 
 # # Example usage
 # urls = [
@@ -70,9 +160,6 @@ filenames = [
 # ]
 
 
-save_directory = "/Users/mehmet/Business/Pictures/ProductChoice Images/demo1"
-
-download_images(urls, filenames, save_directory)
 
 
     # "https://configurator.fifty8.eu:8002/assets/design/st-garden/4/antraciet/410001.jpg",

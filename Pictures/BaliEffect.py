@@ -5,8 +5,8 @@ from PIL import Image, ImageEnhance
 
 
 # Define directories
-input_dir = "/Users/mehmet/Business/Pictures/ProductChoice Images/demo1-copy/1-start/"
-output_dir = "/Users/mehmet/Business/Pictures/ProductChoice Images/demo1-copy-blurred/"
+input_dir = "/Users/mehmet/Business/Pictures/ProductChoice Images/demo1-copy/"
+output_dir = "/Users/mehmet/Business/Pictures/ProductChoice Images/demo1-copy-bali/"
 
 # Ensure output directory exists
 os.makedirs(output_dir, exist_ok=True)
@@ -26,7 +26,7 @@ for root, _, files in os.walk(input_dir):
             output_folder = os.path.join(output_dir, relative_path)
             os.makedirs(output_folder, exist_ok=True)
 
-            output_path = os.path.join(output_folder, f"bali_{filename}")
+            output_path = os.path.join(output_folder, f"{filename}")
 
             # Open image with OpenCV
             image_cv = cv2.imread(input_path).astype(np.float32)
