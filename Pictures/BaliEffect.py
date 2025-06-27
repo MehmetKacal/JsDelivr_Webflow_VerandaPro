@@ -5,8 +5,8 @@ from PIL import Image, ImageEnhance
 
 
 # Define directories
-input_dir = "/Users/mehmet/Business/Pictures/ProductChoice Images/demo1-copy/"
-output_dir = "/Users/mehmet/Business/Pictures/ProductChoice Images/demo1-copy-bali/"
+input_dir = "/Users/mehmet/Business/Pictures/ProductChoice Images/demo1Full-Adjusted/"
+output_dir = "/Users/mehmet/Business/Pictures/ProductChoice Images/demo1Full-Adjusted_v02/"
 
 # Ensure output directory exists
 os.makedirs(output_dir, exist_ok=True)

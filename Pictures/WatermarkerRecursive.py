@@ -7,8 +7,8 @@ pillow_heif.register_heif_opener()
 
 # ===== CONFIGURATION =====
 
-input_dir = "/Users/mehmet/Business/Pictures/ProductChoice Images/demo1-copy-bali/"
-output_dir = "/Users/mehmet/Business/Pictures/ProductChoice Images/demo1-copy-bali-watermarked/"
+input_dir = "/Users/mehmet/Business/Pictures/ProductChoice Images/demo1Full-Adjusted_v03/"
+output_dir = "/Users/mehmet/Business/Pictures/ProductChoice Images/demo1Full-Adjusted_v04/"
 watermark_text = "VerandaProMax.nl"
 font_path = "/System/Library/Fonts/Supplemental/Arial.ttf"
 opacity = 120  # 0 (transparent) to 255 (opaque)
