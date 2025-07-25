@@ -238,476 +238,476 @@ const imageMap = {
     "4": {
       "creme": {
         "Aluminium-kozijn": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/creme/Aluminium-kozijn/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/creme/Aluminium-kozijn/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/creme/Aluminium-kozijn/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/creme/Aluminium-kozijn/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882974eb1c537cedab5ecb6_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882974eb65768321b910ee6_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882974e11c94530e3746d22_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882974e28f18c59f66d7f9e_Polycarbonaat-opaal.avif"
         },
         "Aluminium-schuifpui": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/creme/Aluminium-schuifpui/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/creme/Aluminium-schuifpui/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/creme/Aluminium-schuifpui/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/creme/Aluminium-schuifpui/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688297637d1b36662fda5fc1_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829763e083f02d183aca77_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829763f122d9c2e162388e_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882976324f8e4cffaa0b0a5_Polycarbonaat-opaal.avif"
         },
         "Aluminium-zijwand": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/creme/Aluminium-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/creme/Aluminium-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/creme/Aluminium-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/creme/Aluminium-zijwand/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882976f23a237f732135927_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882976f5ddf689aa2c77454_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882976f62536c0ba06270cc_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882976fd876de142e7b5c56_Polycarbonaat-opaal.avif"
         },
         "Geen-zijwand": {
-          "Geen-spie": "assets/imgs/4-rechter-zijkant/4/creme/Geen-zijwand/Geen-spie.jpg",
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/creme/Geen-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/creme/Geen-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/creme/Geen-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/creme/Geen-zijwand/Polycarbonaat-opaal.jpg"
+          "Geen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829783c54236f7a3cd4a70_Geen-spie.avif",
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688297831562907552e29efd_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688297838ef948a67e9ff9c8_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829783893a65e8f2912bd3_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829783a6209dc2bb0b4c70_Polycarbonaat-opaal.avif"
         },
         "Getint-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/creme/Getint-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/creme/Getint-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/creme/Getint-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/creme/Getint-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829791a840d0fb010f2024_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829791b1c537cedab5fed0_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688297911120b86aa820a1fc_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688297918cffc2192bb43e23_Polycarbonaat-opaal.avif"
         },
         "Helder-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/creme/Helder-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/creme/Helder-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/creme/Helder-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/creme/Helder-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882979d35a208a598376383_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882979d5e3db6688ef98601_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882979d3546a43b5538e410_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882979e9e70e917a72fee22_Polycarbonaat-opaal.avif"
         }
       },
       "antraciet": {
         "Aluminium-kozijn": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/antraciet/Aluminium-kozijn/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/antraciet/Aluminium-kozijn/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/antraciet/Aluminium-kozijn/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/antraciet/Aluminium-kozijn/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296835b5da3378c7d5c6d_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296830b2d8cf5b29d997a_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296838cffc2192bb3bd2e_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882968372b257c89dfb61ec_Polycarbonaat-opaal.avif"
         },
         "Aluminium-schuifpui": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/antraciet/Aluminium-schuifpui/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/antraciet/Aluminium-schuifpui/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/antraciet/Aluminium-schuifpui/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/antraciet/Aluminium-schuifpui/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882969b9e70e917a72f94aa_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882969b1738b5e7f63edc29_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882969bad14b3c1a3c196b7_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882969b070f9600243c76aa_Polycarbonaat-opaal.avif"
         },
         "Aluminium-zijwand": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/antraciet/Aluminium-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/antraciet/Aluminium-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/antraciet/Aluminium-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/antraciet/Aluminium-zijwand/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296a95aa7334a2724de15_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296a9222d5a61a628168e_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296a99e70e917a72f995e_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296a9a2217b2b02aeb547_Polycarbonaat-opaal.avif"
         },
         "Geen-zijwand": {
-          "Geen-spie": "assets/imgs/4-rechter-zijkant/4/antraciet/Geen-zijwand/Geen-spie.jpg",
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/antraciet/Geen-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/antraciet/Geen-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/antraciet/Geen-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/antraciet/Geen-zijwand/Polycarbonaat-opaal.jpg"
+          "Geen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296c584803024739efdab_Geen-spie.avif",
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296c565c3c2ad1b19a439_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296c568e111c0ebc7152f_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296c51b83dd310186ef39_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296c6a2217b2b02aec045_Polycarbonaat-opaal.avif"
         },
         "Getint-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/antraciet/Getint-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/antraciet/Getint-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/antraciet/Getint-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/antraciet/Getint-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296d97d1b36662fda37c6_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296d92a23a879b6b5dde6_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296d959f8d2f09df7de99_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296d90a36562219e5053e_Polycarbonaat-opaal.avif"
         },
         "Helder-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/antraciet/Helder-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/antraciet/Helder-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/antraciet/Helder-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/antraciet/Helder-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296eade6714aea4216be7_Aluminium-spie.jpg",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296ea8c44e035a1baefa7_Glazen-spie.jpg",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296ea536d829387e231cd_Polycarbonaat-helder.jpg",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688296ea7d64d4f93535f52f_Polycarbonaat-opaal.jpg"
         }
       },
       "zwart": {
         "Aluminium-kozijn": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/zwart/Aluminium-kozijn/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/zwart/Aluminium-kozijn/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/zwart/Aluminium-kozijn/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/zwart/Aluminium-kozijn/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688297ea35a208a59837a146_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688297ea4700304426cdc5dc_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688297ea1120b86aa820ca44_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688297ea5e3db6688efa3312_Polycarbonaat-opaal.avif"
         },
         "Aluminium-schuifpui": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/zwart/Aluminium-schuifpui/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/zwart/Aluminium-schuifpui/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/zwart/Aluminium-schuifpui/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/zwart/Aluminium-schuifpui/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688297fe472c1642c1977575_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688297fed544208fe9570c8a_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688297fe0f3473c31e9220be_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688297fe40275ab755e93758_Polycarbonaat-opaal.avif"
         },
         "Aluminium-zijwand": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/zwart/Aluminium-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/zwart/Aluminium-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/zwart/Aluminium-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/zwart/Aluminium-zijwand/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298138f6b1921feb8f21f_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829813ad14b3c1a3c23be1_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882981302c421587c350321_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829813fad0f1daaf822a32_Polycarbonaat-opaal.avif"
         },
         "Geen-zijwand": {
-          "Geen-spie": "assets/imgs/4-rechter-zijkant/4/zwart/Geen-zijwand/Geen-spie.jpg",
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/zwart/Geen-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/zwart/Geen-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/zwart/Geen-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/zwart/Geen-zijwand/Polycarbonaat-opaal.jpg"
+          "Geen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882981f83d98a67cbff0555_Geen-spie.avif",
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882981f841d4a9ba9768c6c_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882981f68780b8ba1348b8c_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882981fadcc77ba72552646_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882981f7d64d4f93536709a_Polycarbonaat-opaal.avif"
         },
         "Getint-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/zwart/Getint-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/zwart/Getint-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/zwart/Getint-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/zwart/Getint-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882983bce75572ebea6e423_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882983bd3cb046768d284e9_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882983ba3e6a08f4e1dac0b_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882983bc260dd99486c2af6_Polycarbonaat-opaal.avif"
         },
         "Helder-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/4/zwart/Helder-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/4/zwart/Helder-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/4/zwart/Helder-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/4/zwart/Helder-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882985c68e111c0ebc7ba41_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882985c5ae557270ad7aa50_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882985cb1c537cedab64b36_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882985ca9626b87dba6e949_Polycarbonaat-opaal.avif"
         }
       }
     },
     "5": {
       "creme": {
         "Aluminium-kozijn": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/creme/Aluminium-kozijn/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/creme/Aluminium-kozijn/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/creme/Aluminium-kozijn/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/creme/Aluminium-kozijn/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688299459b6619a6be6c6b6e_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829945ad14b3c1a3c2aeb1_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829945ce75572ebea74ba3_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829945752a4ce016687fb6_Polycarbonaat-opaal.avif"
         },
         "Aluminium-schuifpui": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/creme/Aluminium-schuifpui/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/creme/Aluminium-schuifpui/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/creme/Aluminium-schuifpui/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/creme/Aluminium-schuifpui/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829951156877a67e3343a5_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829951bd632928c6444fbd_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688299519fb6f0b9869f4c5e_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829951b1c537cedab6b19f_Polycarbonaat-opaal.avif"
         },
         "Aluminium-zijwand": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/creme/Aluminium-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/creme/Aluminium-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/creme/Aluminium-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/creme/Aluminium-zijwand/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882996772b257c89dfcbce7_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829967f12669fca4f9fe1d_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882996743be2b31063a4b1f_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688299677fa0e557e73e3f47_Polycarbonaat-opaal.avif"
         },
         "Geen-zijwand": {
-          "Geen-spie": "assets/imgs/4-rechter-zijkant/5/creme/Geen-zijwand/Geen-spie.jpg",
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/creme/Geen-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/creme/Geen-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/creme/Geen-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/creme/Geen-zijwand/Polycarbonaat-opaal.jpg"
+          "Geen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882998347dfbaed4ef0035b_Geen-spie.avif",
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882998388ea3d1a9950344e_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829983c54236f7a3ce8df2_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882998d65c3c2ad1b1aeed5_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882998343be2b31063a6136_Polycarbonaat-opaal.avif"
         },
         "Getint-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/creme/Getint-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/creme/Getint-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/creme/Getint-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/creme/Getint-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882999d1738b5e7f6402a5f_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882999dbd632928c6446d4d_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882999dc54236f7a3ce9a78_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882999d63fcfe57f7a89235_Polycarbonaat-opaal.avif"
         },
         "Helder-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/creme/Helder-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/creme/Helder-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/creme/Helder-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/creme/Helder-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688299aeb65768321b921a0d_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688299aedb2322a0743efaf2_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688299ae9fb6f0b9869f74db_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688299ae68e111c0ebc85164_Polycarbonaat-opaal.avif"
         }
       },
       "antraciet": {
         "Aluminium-kozijn": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/antraciet/Aluminium-kozijn/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/antraciet/Aluminium-kozijn/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/antraciet/Aluminium-kozijn/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/antraciet/Aluminium-kozijn/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298a41120b86aa8212491_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298a4d9d4cc33543525a5_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298a9d3cebf62af43a01a_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298a45ddf689aa2c81a0c_Polycarbonaat-opaal.avif"
         },
         "Aluminium-schuifpui": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/antraciet/Aluminium-schuifpui/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/antraciet/Aluminium-schuifpui/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/antraciet/Aluminium-schuifpui/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/antraciet/Aluminium-schuifpui/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298b703330f764a6e89f0_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298b61b83dd310187d51a_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298b69cf7c4c6c0207c8e_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298b6a7c0eb3814f0f615_Polycarbonaat-opaal.avif"
         },
         "Aluminium-zijwand": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/antraciet/Aluminium-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/antraciet/Aluminium-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/antraciet/Aluminium-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/antraciet/Aluminium-zijwand/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298c4de6714aea42237ba_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298c4e7f16a47ef35290c_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298c4e7f16a47ef352910_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298c4ffa5bda9d5e4d5ea_Polycarbonaat-opaal.avif"
         },
         "Geen-zijwand": {
-          "Geen-spie": "assets/imgs/4-rechter-zijkant/5/antraciet/Geen-zijwand/Geen-spie.jpg",
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/antraciet/Geen-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/antraciet/Geen-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/antraciet/Geen-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/antraciet/Geen-zijwand/Polycarbonaat-opaal.jpg"
+          "Geen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298d413d3cbab35a84d4e_Geen-spie.avif",
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298d4a9626b87dba71fa9_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298d4330a55533b8c3a94_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298d4548a3286bef6612b_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298d4842ebe1f36b9a039_Polycarbonaat-opaal.avif"
         },
         "Getint-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/antraciet/Getint-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/antraciet/Getint-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/antraciet/Getint-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/antraciet/Getint-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298e1ff046c75a84a087f_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298e1307ee9b4a13189ad_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298e160510b95799e6f91_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298e1548a3286bef6653b_Polycarbonaat-opaal.avif"
         },
         "Helder-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/antraciet/Helder-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/antraciet/Helder-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/antraciet/Helder-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/antraciet/Helder-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298f4d124539073af6338_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298f47d1b36662fdb280b_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298f4edf4ca2b558016dd_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298f4c034bd156b5f7278_Polycarbonaat-opaal.avif"
         }
       },
       "zwart": {
         "Aluminium-kozijn": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/zwart/Aluminium-kozijn/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/zwart/Aluminium-kozijn/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/zwart/Aluminium-kozijn/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/zwart/Aluminium-kozijn/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a05fad0f1daaf82fee5_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a05070f9600243e09a3_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a051fd614e4e6e8e958_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a05d8feacb8ad183eec_Polycarbonaat-opaal.avif"
         },
         "Aluminium-schuifpui": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/zwart/Aluminium-schuifpui/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/zwart/Aluminium-schuifpui/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/zwart/Aluminium-schuifpui/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/zwart/Aluminium-schuifpui/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a11893a65e8f2921add_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a108ef948a67ea131b3_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a1020c5f58a5d34ed54_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a10ab22aa0f544f693f_Polycarbonaat-opaal.avif"
         },
         "Aluminium-zijwand": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/zwart/Aluminium-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/zwart/Aluminium-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/zwart/Aluminium-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/zwart/Aluminium-zijwand/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a2417ab411dd159d469_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a24db2322a0743f22a4_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a24a14229706ba2975a_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a250b0dd640a9452981_Polycarbonaat-opaal.avif"
         },
         "Geen-zijwand": {
-          "Geen-spie": "assets/imgs/4-rechter-zijkant/5/zwart/Geen-zijwand/Geen-spie.jpg",
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/zwart/Geen-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/zwart/Geen-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/zwart/Geen-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/zwart/Geen-zijwand/Polycarbonaat-opaal.jpg"
+          "Geen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a340f3473c31e931958_Geen-spie.avif",
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a3468e111c0ebc87fe5_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a3402c421587c35e40f_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a348b088ef54280a115_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a34d8feacb8ad185694_Polycarbonaat-opaal.avif"
         },
         "Getint-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/zwart/Getint-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/zwart/Getint-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/zwart/Getint-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/zwart/Getint-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a44de6714aea422bbb1_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a4454685edcd079ccac_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a4465c3c2ad1b1b4d02_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a440b2d8cf5b29f22f1_Polycarbonaat-opaal.avif"
         },
         "Helder-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/5/zwart/Helder-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/5/zwart/Helder-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/5/zwart/Helder-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/5/zwart/Helder-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a52af0c9a8d437c2a9f_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a524ddde03f62ddcb79_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a522a23a879b6b797bb_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a52eb9f1da4d9ed19f8_Polycarbonaat-opaal.avif"
         }
       }
     },
     "6": {
       "creme": {
         "Aluminium-kozijn": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/creme/Aluminium-kozijn/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/creme/Aluminium-kozijn/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/creme/Aluminium-kozijn/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/creme/Aluminium-kozijn/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688299459b6619a6be6c6b6e_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829945ad14b3c1a3c2aeb1_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829945ce75572ebea74ba3_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829945752a4ce016687fb6_Polycarbonaat-opaal.avif"
         },
         "Aluminium-schuifpui": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/creme/Aluminium-schuifpui/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/creme/Aluminium-schuifpui/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/creme/Aluminium-schuifpui/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/creme/Aluminium-schuifpui/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829951156877a67e3343a5_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829951bd632928c6444fbd_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688299519fb6f0b9869f4c5e_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829951b1c537cedab6b19f_Polycarbonaat-opaal.avif"
         },
         "Aluminium-zijwand": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/creme/Aluminium-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/creme/Aluminium-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/creme/Aluminium-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/creme/Aluminium-zijwand/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882996772b257c89dfcbce7_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829967f12669fca4f9fe1d_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882996743be2b31063a4b1f_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688299677fa0e557e73e3f47_Polycarbonaat-opaal.avif"
         },
         "Geen-zijwand": {
-          "Geen-spie": "assets/imgs/4-rechter-zijkant/6/creme/Geen-zijwand/Geen-spie.jpg",
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/creme/Geen-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/creme/Geen-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/creme/Geen-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/creme/Geen-zijwand/Polycarbonaat-opaal.jpg"
+          "Geen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882998347dfbaed4ef0035b_Geen-spie.avif",
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882998388ea3d1a9950344e_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829983c54236f7a3ce8df2_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882998d65c3c2ad1b1aeed5_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882998343be2b31063a6136_Polycarbonaat-opaal.avif"
         },
         "Getint-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/creme/Getint-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/creme/Getint-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/creme/Getint-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/creme/Getint-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882999d1738b5e7f6402a5f_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882999dbd632928c6446d4d_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882999dc54236f7a3ce9a78_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/6882999d63fcfe57f7a89235_Polycarbonaat-opaal.avif"
         },
         "Helder-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/creme/Helder-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/creme/Helder-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/creme/Helder-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/creme/Helder-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688299aeb65768321b921a0d_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688299aedb2322a0743efaf2_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688299ae9fb6f0b9869f74db_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688299ae68e111c0ebc85164_Polycarbonaat-opaal.avif"
         }
       },
       "antraciet": {
         "Aluminium-kozijn": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/antraciet/Aluminium-kozijn/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/antraciet/Aluminium-kozijn/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/antraciet/Aluminium-kozijn/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/antraciet/Aluminium-kozijn/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298a41120b86aa8212491_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298a4d9d4cc33543525a5_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298a9d3cebf62af43a01a_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298a45ddf689aa2c81a0c_Polycarbonaat-opaal.avif"
         },
         "Aluminium-schuifpui": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/antraciet/Aluminium-schuifpui/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/antraciet/Aluminium-schuifpui/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/antraciet/Aluminium-schuifpui/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/antraciet/Aluminium-schuifpui/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298b703330f764a6e89f0_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298b61b83dd310187d51a_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298b69cf7c4c6c0207c8e_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298b6a7c0eb3814f0f615_Polycarbonaat-opaal.avif"
         },
         "Aluminium-zijwand": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/antraciet/Aluminium-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/antraciet/Aluminium-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/antraciet/Aluminium-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/antraciet/Aluminium-zijwand/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298c4de6714aea42237ba_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298c4e7f16a47ef35290c_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298c4e7f16a47ef352910_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298c4ffa5bda9d5e4d5ea_Polycarbonaat-opaal.avif"
         },
         "Geen-zijwand": {
-          "Geen-spie": "assets/imgs/4-rechter-zijkant/6/antraciet/Geen-zijwand/Geen-spie.jpg",
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/antraciet/Geen-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/antraciet/Geen-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/antraciet/Geen-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/antraciet/Geen-zijwand/Polycarbonaat-opaal.jpg"
+          "Geen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298d413d3cbab35a84d4e_Geen-spie.avif",
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298d4a9626b87dba71fa9_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298d4330a55533b8c3a94_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298d4548a3286bef6612b_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298d4842ebe1f36b9a039_Polycarbonaat-opaal.avif"
         },
         "Getint-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/antraciet/Getint-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/antraciet/Getint-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/antraciet/Getint-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/antraciet/Getint-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298e1ff046c75a84a087f_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298e1307ee9b4a13189ad_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298e160510b95799e6f91_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298e1548a3286bef6653b_Polycarbonaat-opaal.avif"
         },
         "Helder-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/antraciet/Helder-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/antraciet/Helder-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/antraciet/Helder-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/antraciet/Helder-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298f4d124539073af6338_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298f47d1b36662fdb280b_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298f4edf4ca2b558016dd_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/688298f4c034bd156b5f7278_Polycarbonaat-opaal.avif"
         }
       },
       "zwart": {
         "Aluminium-kozijn": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/zwart/Aluminium-kozijn/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/zwart/Aluminium-kozijn/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/zwart/Aluminium-kozijn/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/zwart/Aluminium-kozijn/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a05fad0f1daaf82fee5_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a05070f9600243e09a3_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a051fd614e4e6e8e958_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a05d8feacb8ad183eec_Polycarbonaat-opaal.avif"
         },
         "Aluminium-schuifpui": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/zwart/Aluminium-schuifpui/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/zwart/Aluminium-schuifpui/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/zwart/Aluminium-schuifpui/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/zwart/Aluminium-schuifpui/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a11893a65e8f2921add_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a108ef948a67ea131b3_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a1020c5f58a5d34ed54_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a10ab22aa0f544f693f_Polycarbonaat-opaal.avif"
         },
         "Aluminium-zijwand": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/zwart/Aluminium-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/zwart/Aluminium-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/zwart/Aluminium-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/zwart/Aluminium-zijwand/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a2417ab411dd159d469_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a24db2322a0743f22a4_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a24a14229706ba2975a_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a250b0dd640a9452981_Polycarbonaat-opaal.avif"
         },
         "Geen-zijwand": {
-          "Geen-spie": "assets/imgs/4-rechter-zijkant/6/zwart/Geen-zijwand/Geen-spie.jpg",
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/zwart/Geen-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/zwart/Geen-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/zwart/Geen-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/zwart/Geen-zijwand/Polycarbonaat-opaal.jpg"
+          "Geen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a340f3473c31e931958_Geen-spie.avif",
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a3468e111c0ebc87fe5_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a3402c421587c35e40f_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a348b088ef54280a115_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a34d8feacb8ad185694_Polycarbonaat-opaal.avif"
         },
         "Getint-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/zwart/Getint-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/zwart/Getint-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/zwart/Getint-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/zwart/Getint-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a44de6714aea422bbb1_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a4454685edcd079ccac_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a4465c3c2ad1b1b4d02_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a440b2d8cf5b29f22f1_Polycarbonaat-opaal.avif"
         },
         "Helder-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/6/zwart/Helder-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/6/zwart/Helder-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/6/zwart/Helder-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/6/zwart/Helder-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a52af0c9a8d437c2a9f_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a524ddde03f62ddcb79_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a522a23a879b6b797bb_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a52eb9f1da4d9ed19f8_Polycarbonaat-opaal.avif"
         }
       }
     },
     "7": {
       "creme": {
         "Aluminium-kozijn": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/creme/Aluminium-kozijn/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/creme/Aluminium-kozijn/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/creme/Aluminium-kozijn/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/creme/Aluminium-kozijn/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829b5611c94530e3763acf_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829b56f44066d8703a6693_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829b5623a237f73215212f_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829b565135ecb371b3e793_Polycarbonaat-opaal.avif"
         },
         "Aluminium-schuifpui": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/creme/Aluminium-schuifpui/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/creme/Aluminium-schuifpui/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/creme/Aluminium-schuifpui/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/creme/Aluminium-schuifpui/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829b67321b761a25255cc0_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829b67b1c537cedab7b6c4_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829b6743be2b31063b2fea_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829b67a1943db50b8d7a96_Polycarbonaat-opaal.avif"
         },
         "Aluminium-zijwand": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/creme/Aluminium-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/creme/Aluminium-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/creme/Aluminium-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/creme/Aluminium-zijwand/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829b79793217378ced7546_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829b79e083f02d183c7161_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829b79548a3286bef784d0_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829b798480302473a14fd9_Polycarbonaat-opaal.avif"
         },
         "Geen-zijwand": {
-          "Geen-spie": "assets/imgs/4-rechter-zijkant/7/creme/Geen-zijwand/Geen-spie.jpg",
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/creme/Geen-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/creme/Geen-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/creme/Geen-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/creme/Geen-zijwand/Polycarbonaat-opaal.jpg"
+          "Geen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829bbd548a3286bef7a378_Geen-spie.avif",
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829bbd4700304426cf4d0e_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829bbd741e06ee04a0259a_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829bbd098ecf872f3a4a96_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829bbd28f18c59f66f2cd3_Polycarbonaat-opaal.avif"
         },
         "Getint-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/creme/Getint-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/creme/Getint-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/creme/Getint-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/creme/Getint-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829bcc2a7b289052c75a56_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829bcc825ab90873d7a976_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829bcc35fd39d8d8384c18_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829bccaf9a5fee51847172_Polycarbonaat-opaal.avif"
         },
         "Helder-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/creme/Helder-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/creme/Helder-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/creme/Helder-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/creme/Helder-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829bdac3d2ff6a741f921d_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829bdaf63523136d0b4479_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829bda7b975feb9d3e7884_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829bda11c94530e3768ca3_Polycarbonaat-opaal.avif"
         }
       },
       "antraciet": {
         "Aluminium-kozijn": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/antraciet/Aluminium-kozijn/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/antraciet/Aluminium-kozijn/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/antraciet/Aluminium-kozijn/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/antraciet/Aluminium-kozijn/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a906cad4066b154dae6_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a90c54236f7a3ceeca1_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a90bd5071ea1462ad74_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829a915b5da3378c7f16b6_Polycarbonaat-opaal.avif"
         },
         "Aluminium-schuifpui": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/antraciet/Aluminium-schuifpui/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/antraciet/Aluminium-schuifpui/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/antraciet/Aluminium-schuifpui/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/antraciet/Aluminium-schuifpui/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829aa6321b761a25251266_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829aa68c99aa23c5fdfbcd_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829aa66f14a2eda98a095d_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829aa635a208a59838d099_Polycarbonaat-opaal.avif"
         },
         "Aluminium-zijwand": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/antraciet/Aluminium-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/antraciet/Aluminium-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/antraciet/Aluminium-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/antraciet/Aluminium-zijwand/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829aba43be2b31063ae04c_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829aba83933ba76105ec41_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829aba09eaf86a8f2ef3ae_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829abaf462a023e04e61cf_Polycarbonaat-opaal.avif"
         },
         "Geen-zijwand": {
-          "Geen-spie": "assets/imgs/4-rechter-zijkant/7/antraciet/Geen-zijwand/Geen-spie.jpg",
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/antraciet/Geen-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/antraciet/Geen-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/antraciet/Geen-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/antraciet/Geen-zijwand/Polycarbonaat-opaal.jpg"
+          "Geen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829aceba66cee6e236b352_Geen-spie.avif",
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829acea10cb3e8b738089f_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829ace5e3db6688efbab01_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829ace125612e3b90b5fc6_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829ace741e06ee049fc87f_Polycarbonaat-opaal.avif"
         },
         "Getint-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/antraciet/Getint-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/antraciet/Getint-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/antraciet/Getint-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/antraciet/Getint-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829aedddc57c10b5de4891_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829aedddc57c10b5de4891_Aluminium-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829aee5248bd4127b0db9a_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829aee13d3cbab35a94789_Polycarbonaat-opaal.avif"
         },
         "Helder-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/antraciet/Helder-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/antraciet/Helder-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/antraciet/Helder-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/antraciet/Helder-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829afba6209dc2bb0cb33c_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829b08a14229706ba31bc4_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829afb0994cc27a8afe37d_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829afccb10221ae4810164_Polycarbonaat-opaal.avif"
         }
       },
       "zwart": {
         "Aluminium-kozijn": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/zwart/Aluminium-kozijn/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/zwart/Aluminium-kozijn/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/zwart/Aluminium-kozijn/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/zwart/Aluminium-kozijn/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c1326b7bf42db5022c3_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c130a28a50eea1c969f_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c13a217b575415f0191_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c1361e8c5f1f5092301_Polycarbonaat-opaal.avif"
         },
         "Aluminium-schuifpui": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/zwart/Aluminium-schuifpui/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/zwart/Aluminium-schuifpui/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/zwart/Aluminium-schuifpui/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/zwart/Aluminium-schuifpui/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c1f08b95509ee46c160_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c1f548a3286bef7dce6_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c1f63fc3ada6374982c_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c1fd2ddd64704695f5e_Polycarbonaat-opaal.avif"
         },
         "Aluminium-zijwand": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/zwart/Aluminium-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/zwart/Aluminium-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/zwart/Aluminium-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/zwart/Aluminium-zijwand/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c367b975feb9d3e9751_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c36c54236f7a3cfc946_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c36538b223a5b3882f9_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c3641474dd53c072b19_Polycarbonaat-opaal.avif"
         },
         "Geen-zijwand": {
-          "Geen-spie": "assets/imgs/4-rechter-zijkant/7/zwart/Geen-zijwand/Geen-spie.jpg",
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/zwart/Geen-zijwand/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/zwart/Geen-zijwand/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/zwart/Geen-zijwand/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/zwart/Geen-zijwand/Polycarbonaat-opaal.jpg"
+          "Geen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c4dad55221c553023d2_Geen-spie.avif",
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c4dab22aa0f545078f9_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c4da10cb3e8b738a204_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c4d722bda8015ba0fbc_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c4d7b975feb9d3ea0b7_Polycarbonaat-opaal.avif"
         },
         "Getint-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/zwart/Getint-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/zwart/Getint-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/zwart/Getint-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/zwart/Getint-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c5e2790455483914c80_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c5e221f91a8fa53fc31_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c5ef818f4a4d0e3fe4c_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c5f7a0334c4ebb81890_Polycarbonaat-opaal.avif"
         },
         "Helder-glazen-schuifwanden": {
-          "Aluminium-spie": "assets/imgs/4-rechter-zijkant/7/zwart/Helder-glazen-schuifwanden/Aluminium-spie.jpg",
-          "Glazen-spie": "assets/imgs/4-rechter-zijkant/7/zwart/Helder-glazen-schuifwanden/Glazen-spie.jpg",
-          "Polycarbonaat-helder": "assets/imgs/4-rechter-zijkant/7/zwart/Helder-glazen-schuifwanden/Polycarbonaat-helder.jpg",
-          "Polycarbonaat-opaal": "assets/imgs/4-rechter-zijkant/7/zwart/Helder-glazen-schuifwanden/Polycarbonaat-opaal.jpg"
+          "Aluminium-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c6e8dbb531fdbb261a1_Aluminium-spie.avif",
+          "Glazen-spie": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c6ecc756056b27319fe_Glazen-spie.avif",
+          "Polycarbonaat-helder": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c6e311800378daf9452_Polycarbonaat-helder.avif",
+          "Polycarbonaat-opaal": "https://cdn.prod.website-files.com/644970d7bfb0ffbd0d52d837/68829c6ef5188381cec0bead_Polycarbonaat-opaal.avif"
         }
       }
     },
